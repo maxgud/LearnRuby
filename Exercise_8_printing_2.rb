@@ -7,7 +7,7 @@ puts formatter % {first: formatter, second: formatter, third: formatter, fourth:
 
 puts formatter % {
   first: "I had this thing.",
-  second: "That you could type up right.",
-  third: "But it didn't sing.",
-  fourth: "So I said goodnight."
+  second: "\nThat you could type up right.",
+  third: "\nBut it didn't sing.",
+  fourth: "\nSo I said goodnight."
 }
