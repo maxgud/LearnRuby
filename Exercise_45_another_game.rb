@@ -42,6 +42,3 @@ class Town < Player_Stats
 		end
 	end
 end
-
-test = Town.new
-test.Inn()
